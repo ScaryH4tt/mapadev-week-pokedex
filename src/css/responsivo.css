@@ -8,7 +8,7 @@
         padding: 30px;
     }
     .cartao-pokemon {
-        max-height: 300px;
+        max-width: 300px;
     }
 
     .cartao-pokemon .cartao-imagem {
